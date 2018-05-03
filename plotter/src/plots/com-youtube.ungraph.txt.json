@@ -1,0 +1,1 @@
+{"name": "com-youtube.ungraph.txt", "data": [{"x": [0, 4, 8, 16, 32, 64, 128, 256, 512, 1024], "type": "scatter", "y": [877636, 138098, 65984, 29500, 13435, 5985, 2567, 1082, 387], "name": "Directed"}], "layout": {"title": "com-youtube undirected", "xaxis": {"title": "Degree", "type": "log", "autorange": true}, "yaxis": {"title": "Freq", "type": "log", "autorange": true}}}

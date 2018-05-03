@@ -1,0 +1,1 @@
+{"layout": {"xaxis": {"autorange": true, "title": "Degree", "type": "log"}, "yaxis": {"autorange": true, "title": "Freq", "type": "log"}, "title": "com-dblp undirected"}, "name": "com-dblp.ungraph.txt", "data": [{"y": [151696, 92756, 45534, 18887, 6553, 1461, 188, 5, 0], "x": [0, 4, 8, 16, 32, 64, 128, 256, 512, 1024], "name": "Directed", "type": "scatter"}]}

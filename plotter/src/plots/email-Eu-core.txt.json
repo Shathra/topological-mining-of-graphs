@@ -1,0 +1,1 @@
+{"data": [{"name": "Directed", "y": [150, 100, 97, 142, 236, 189, 79, 11, 1], "type": "scatter", "x": [0, 4, 8, 16, 32, 64, 128, 256, 512, 1024]}], "name": "email-Eu-core.txt", "layout": {"yaxis": {"title": "Freq", "type": "log", "autorange": true}, "title": "email-Eu-core", "xaxis": {"title": "Degree", "type": "log", "autorange": true}}}
