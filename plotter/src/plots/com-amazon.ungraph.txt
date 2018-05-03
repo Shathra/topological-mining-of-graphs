@@ -1,0 +1,1 @@
+{"data": [{"type": "scatter", "y": [0, 25709, 88368, 163175, 44852, 10487, 1946, 285, 38, 2, 1], "x": [0, 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024]}], "layout": {"xaxis": {"autorange": true, "type": "log"}, "yaxis": {"autorange": true, "type": "log"}}}
