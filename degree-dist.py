@@ -33,7 +33,10 @@ layout = go.Layout(
         title='Freq',
         type='log',
         autorange=True
-    )
+    ),
+    autosize=False,
+    height=550,
+    width=550,
 )
 fig = go.Figure(data=data, layout=layout)
 #plot(fig)
